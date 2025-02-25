@@ -7,3 +7,4 @@ export default function Home() {
       <p>Todo lo necesario para el cultivo a tu alcance.</p>
     </div>
   );
+  { //
